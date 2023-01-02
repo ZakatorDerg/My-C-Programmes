@@ -103,7 +103,7 @@ int main(void)
     {
         najlepszy(pl,10,&x, &y);
         pl[x][y]='x';
-        wypisz(pl); //funkcja wypisuj¹ca zawartoœæ planszy (dwie pêtle z printf)
+        wypisz(pl); //funkcja wypisujÄ…ca zawartoÅ›Ä‡ planszy (dwie pÄ™tle z printf)
         wyn = ocena(pl);
         if (wyn==WYGRANA)
         {
