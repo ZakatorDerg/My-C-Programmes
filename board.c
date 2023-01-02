@@ -15,7 +15,7 @@ int main()
 
 
     int x=(int)polecenie[0]-97;
-    int y=(int)polecenie[1]-49;  // zwróci wartoœæ int
+    int y=(int)polecenie[1]-49;  
 
 
     printf("%d",x);
