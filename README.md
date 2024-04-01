@@ -1,2 +1,2 @@
-# My-C-Projects
-This repository contains my coding projects in C
+# My-C-Programms
+This repository contains my coding apps in C
